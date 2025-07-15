@@ -1,6 +1,6 @@
 # KeyRank 🔑
 
-**KeyRank** is a web app that evaluates password strength in real time.
+**KeyRank** is a web app built as a learning project to practice and improve my skills with **React**.
 
 ✅ **Frontend:** React  
 ⚡ **Bundler:** Vite  
