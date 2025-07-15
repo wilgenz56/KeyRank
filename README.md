@@ -1,6 +1,3 @@
-Ecco il README.md modificato con l’inclusione di zxcvbn:
-
-````markdown
 # KeyRank 🔑
 
 KeyRank is a web app built as a learning project to practice and improve my skills with React.
