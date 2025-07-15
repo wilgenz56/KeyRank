@@ -1,20 +1,44 @@
-# KeyRank
+# KeyRank 🔑
 
-KeyRank is a React-based web app that analyzes password strength in real time.  
-It evaluates input based on length, character variety, and complexity to help users create safer credentials through clear and instant feedback.
+**KeyRank** is a web app that evaluates password strength in real time.
+
+✅ **Frontend:** React  
+⚡ **Bundler:** Vite  
+🚀 **Deploy:** Netlify  
+
+🌐 **Live demo:** [https://splendorous-blini-fd3b87.netlify.app/](https://splendorous-blini-fd3b87.netlify.app/)
 
 ---
 
-## React + Vite
+## 📋 Features
+- Instant password strength evaluation.
+- Modern, responsive UI.
+- Smooth animations and a clean design.
 
-This project is based on the Vite React template, which provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 🚀 Technologies
+- [React](https://react.dev/) for the UI.
+- [Vite](https://vitejs.dev/) for fast development and builds.
+- [Netlify](https://www.netlify.com/) for deployment.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-### Expanding the ESLint configuration
+## 🛠️ Run locally
+```bash
+# install dependencies
+npm install
+# start development server
+npm run dev
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled.  
-Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Open http://localhost:5173 in your browser.
+## 📦 Build
+```bash
+npm run build
+```
+The dist folder will be generated and is ready to deploy.
+
+## 📄 License
+
+Open source project – feel free to use and improve it!
