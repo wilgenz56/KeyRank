@@ -9,10 +9,6 @@ function PasswordInput() {
 
   return (
     <div className="page-wrapper">
-<<<<<<< HEAD
-=======
-      <img src="./src/assets/keyrank_icon.jpg" alt="KeyRank Logo" className="logo" />
->>>>>>> master
       <h1 className="page-title">
         Is your password strong enough?<br /> Let’s see what you’ve got.
       </h1>
